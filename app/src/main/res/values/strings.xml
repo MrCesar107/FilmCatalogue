@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Film Catalogue</string>
+    <string name="presentation_text">Seleccione una película para ver su portada</string>
+    <string name="movie_button1">GRAVEDAD</string>
+    <string name="movie_button2">JUMANJI</string>
+    <string name="movie_button3">EL REY LEÓN</string>
+    <string name="movie_button4">STAR WARS</string>
+    <string name="movie_button5">EL ORIGEN</string>
+    <string name="movie_button6">TOY STORY</string>
 </resources>
